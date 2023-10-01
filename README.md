@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👨🏻‍🦰 About Me
 
-<!--
-**tuckercp/tuckercp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page! My name is Corey and I'm an operations manager looking to leverage the power of data to make informed, data-driven decisions. 📊
 
-Here are some ideas to get you started:
+Some of my skills include:
+ - Querying data through **SQL**, with experience in MySQL 🐬 and PostgreSQL 🐘
+ - Creating dashboards in **Tableau** 🖼️
+ - Data analysis with **Excel** 📈
+ - Performing analysis in **Python** 🐍, specifically the libraries NumPy 🔢, Pandas 🐼 and Beautiful Soup 🍜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗃️ Projects
+
+Here is a link to my [projects] (), those from both course work and personal projects
+
+### 🧰 Tools
+
+- Languages: SQL, Python (NumPy, Pandas, Beautiful Soup)
+- Databases: MySQL, PostgreSQL, Google BigQuery
+- Visualizations: Tableau
+
+### 📬 Connect with me
+
+- [LinkedIn] ()
+- [Website] ()
