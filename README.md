@@ -8,12 +8,12 @@ I'm constantly learning new skills. I've found a passion for data and am eager t
 
  - 📈 _**Excel:**_ Data analysis, cleaning & manipulating data, creating interactive Excel dashboards, forecasting models, applying advanced functions
  - 💾 _**SQL:**_ Creating databases & tables, executing JOINS, subqueries/CTEs & window functions, performing various data cleaning methods
- - 🐍 _**Python:**_ Data Wrangling & EDA, programming scripts, working with several libraries, specifically high-powered statistical computations with **NumPy** 🔢, and loading, cleaning and manipulating Series & DataFrames in **Pandas** 🐼
+ - 🐍 _**Python:**_ Data Wrangling & EDA, programming scripts, working with several libraries, specifically high-powered statistical computations with **NumPy** 🔢, and loading, cleaning and manipulating Series & DataFrames in **pandas** 🐼
  - 🖼️ _**Tableau:**_ Building dashboards and stories, using data hierarchies, filtering & grouping, constructing calculated fields
 
 ### 🗃️ Projects
 
-Here is a link to [my porfolio](https://github.com/tuckercp/Portfolio/blob/main/README.md). There you'll find several projects, those from both course work and personal projects I've completed. 🤓
+Here is a link to [my porfolio](https://github.com/tuckercp/Portfolio/blob/main/README.md) where you'll find several projects, from both course work and personal projects I've completed. 🤓
 
 ### 🧰 Tools
 
@@ -21,7 +21,7 @@ The following are several of the tools I've been learning over the last year, wi
 
 - Languages: 
     - SQL 💾
-    - Python 🐍 (NumPy 🔢, Pandas 🐼)
+    - Python 🐍 (NumPy 🔢, pandas 🐼)
 - Databases: 
     - MySQL 🐬
     - PostgreSQL 🐘
