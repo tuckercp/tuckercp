@@ -1,6 +1,6 @@
 ## 👨🏻‍🦰 About Me
 
-Welcome to my page! My name is Corey and I'm an operations manager who understands the tremendous value that data can bring to an organization. In my current role, I've seen firsthand how the power of data analysis can be leveraged to make informed, high-impact, data-driven decisions. 📊
+Welcome to my page! My name is Corey and I'm operations manager who understands the tremendous value that data can bring to an organization. In my current role, I've seen firsthand how the power of data analysis can be leveraged to make informed, high-impact, data-driven decisions. 📊
 
 ### 🎯 Skills
 
@@ -13,26 +13,25 @@ I'm constantly learning new skills. I've found a passion for data and am eager t
 
 ### 🗃️ Projects
 
-Here is a link to [my porfolio](https://github.com/tuckercp/Portfolio/blob/main/README.md) where you'll find several projects, from both course work and personal projects I've completed. 🤓
+Here is a link to my [porfolio](https://github.com/tuckercp/Portfolio/blob/main/README.md) where you'll find several projects I've completed. 🤓
 
 ### 🧰 Tools
 
-The following are several of the tools I've been learning over the last year, with the hope of adding more to this toolbox! ⚙️
+The following are several of the tools I've been learning, with the hope of adding more to this toolbox! ⚙️
 
-- Languages: 
+- _Languages:_ 
     - SQL 💾
     - Python 🐍 (NumPy 🔢, pandas 🐼)
-- Databases: 
+- _Databases:_
     - MySQL 🐬
     - PostgreSQL 🐘
     - DBrowser for SQLite 🔋
-- Visualizations: 
+- _Visualizations:_
     - Tableau 🖼️
 
 ### 📬 Connect!
 
-I'm hoping to connect with others in the field! Below is my LinkedIn and other contact information. 🤠
+I'm open to work and am hoping to connect with others in the field! You can reach me by email or through LinkedIn. 🤠
 
 - Email: tuckercp05@gmail.com
-- [LinkedIn] ()
-- [Website] ()
+- [LinkedIn](https://www.linkedin.com/in/tuckercorey/)
